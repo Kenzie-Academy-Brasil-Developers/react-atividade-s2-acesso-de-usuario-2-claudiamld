@@ -1,0 +1,27 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e5e5;
+}
+.main-customer{
+    border: 2px solid #2b2d42;
+    width: 30%;
+    height: 50%;
+    border-radius: 8px;
+}
+.main-customer:hover{
+    background-color: #b7b7a4;
+    cursor: pointer;
+}
+.title{
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.member-name{
+    font-size: 26px;
+    font-weight: bold;
+}

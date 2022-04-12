@@ -1,0 +1,26 @@
+.members-div{
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: #e5e5e5;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    color: #6d6875;
+    font-weight: bold;
+}
+.link:hover{
+    color: #c4c4c4;
+}
+.title-home{
+    font-size: 34px;
+}
